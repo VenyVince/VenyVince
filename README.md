@@ -30,7 +30,8 @@ Backend Developer
 [![GitHub Streak](https://streak-stats.demolab.com?user=VenyVince&theme=default&hide_border=true&locale=ko)](https://git.io/streak-stats)
 
 
-![Metrics](./github-metrics.svg)
+<img src="./github-metrics.svg?v=2" width="400">
+
 
 
 
