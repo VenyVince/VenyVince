@@ -30,9 +30,6 @@ Backend Developer
 [![GitHub Streak](https://streak-stats.demolab.com?user=VenyVince&theme=default&hide_border=true&locale=ko)](https://git.io/streak-stats)
 
 
-<script src="https://gist.github.com/VenyVince/52ce225fca558c5b7e8fb12333d57ba7.js"></script>
-
-
 
 
 ## 📬 Contact
