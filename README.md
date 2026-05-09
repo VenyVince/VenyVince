@@ -24,13 +24,6 @@ Backend Developer
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 
-## 📊 GitHub Stats
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VenyVince&theme=default&hide_border=true&locale=ko)](https://git.io/streak-stats)
-
-
-
 
 ## 📬 Contact
 
