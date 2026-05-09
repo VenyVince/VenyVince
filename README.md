@@ -29,6 +29,11 @@ Backend Developer
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VenyVince&theme=default&hide_border=true&locale=ko)](https://git.io/streak-stats)
 
+
+![Metrics](./github-metrics.svg)
+
+
+
 ## 📬 Contact
 
 [![Gmail](https://img.shields.io/badge/redguy0814@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:redguy0814@gmail.com)
