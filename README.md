@@ -26,10 +26,6 @@ Backend Developer
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VenyVince&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenyVince&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VenyVince&theme=default&hide_border=true&locale=ko)](https://git.io/streak-stats)
 
