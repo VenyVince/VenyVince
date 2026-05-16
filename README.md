@@ -30,5 +30,6 @@ Backend Developer
 [![Gmail](https://img.shields.io/badge/redguy0814@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:redguy0814@gmail.com)
 
 ## 📄Writes
-
-[![Velog](https://velog-readme-stats.vercel.app/api?name=venyclxx__d)](https://velog.io/@venyclxx__d)
+<a href="https://velog.io/@venyclxx__d" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+</a>
