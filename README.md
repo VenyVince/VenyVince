@@ -28,3 +28,7 @@ Backend Developer
 ## 📬 Contact
 
 [![Gmail](https://img.shields.io/badge/redguy0814@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:redguy0814@gmail.com)
+
+## 📄Writes
+
+[![Velog](https://velog-readme-stats.vercel.app/api?name=venyclxx__d)](https://velog.io/@venyclxx__d)
